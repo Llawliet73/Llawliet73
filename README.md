@@ -3,9 +3,6 @@
 💡 I’m a passionate Full Stack Developer with a knack for building engaging web, mobile, and game applications.
 
 📚 **Currently Learning**: UI/UX, DevOps tools  
-📫 **Reach me at**: manthanuday15@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/manthan-u-517381375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthan-u-517381375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
