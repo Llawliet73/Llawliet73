@@ -9,13 +9,6 @@
 - **Mobile**: Android (XML)  
 - **Others**: Git, GitHub, VS Code
 
-🚀 **Projects**
-- 🗒️ **Cloud Note App** – Simple and fast cloud-based note-taking app
-- 🧩 **SudokuZenith** – Modern and interactive Android Sudoku game
-- 🎮 **Fun Game** – Light casual game for fun and learning
-- 🛒 **SwiftBuy** – Full-featured E-commerce site using the MERN stack  
-- 🐦 **Flappy Bird (melonJS)** – Classic Flappy Bird remake in HTML5
-
 📚 **Currently Learning**: UI/UX, DevOps tools  
 📫 **Reach me at**: manthanuday15@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/manthan-u-517381375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
